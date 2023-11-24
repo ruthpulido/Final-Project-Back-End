@@ -1,0 +1,2 @@
+API_ID = "MY_API_ID"
+API_KEY = "MY_API_KEY"
